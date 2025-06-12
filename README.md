@@ -4,7 +4,7 @@ A fully automated, voice-narrated Python implementation of the classic social de
 ## 🎮 Features
 🎙️ Text-to-Speech Narration using gTTS for immersive gameplay
 
-🧠 Dynamic Role Logic: Villager, Werewolf, Seer, Bodyguard, Witch, and Hunter
+🧠 Dynamic Role Logic: Villager, Werewolf, Seer, Bodyguard, Witch, Hunter and more
 
 🌙 Night & Day Cycles with timed prompts and decision sequences
 
